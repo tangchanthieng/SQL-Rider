@@ -4,7 +4,7 @@
 **Project Title:** Rider Analysis Using Power BI and SQL Server  
 **Timeline:** December 8, 2024  
 **Client:** Toman Bike Share  
-**Tools:** Power BI, MS SQL Server, MS Word  
+**Tools:** Power BI, MS SQL Server, MS Word, MS Excel 
 **Data Source:** Provided by the client (`bike_data`)  
 
 **Objective:**  
